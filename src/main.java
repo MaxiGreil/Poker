@@ -3,7 +3,8 @@ public class main
 {
 public static void main(String[] args) 
 {
-		Scanner eingabe = new Scanner(System.in);
+	// das ist ein Kommentar	
+	Scanner eingabe = new Scanner(System.in);
 		System.out.println("Geben Sie die gewünschte Zahl ein");
 		int tries = eingabe.nextInt();
 		
